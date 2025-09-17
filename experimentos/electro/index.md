@@ -1,3 +1,3 @@
-## Listado de experimentos de electromagnetismo
----
+## Experimentos de electromagnetismo
+
 * [Bobina de Tesla](tesla/)
